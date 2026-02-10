@@ -1,4 +1,4 @@
-# Integração Bling com Google Workspace e ChatGPT
+# Integração Bling com Google Workspace
 
 ##  Objetivo
 Desenvolver uma solução de integração entre o ERP **Bling**, o **Google Workspace** e o **ChatGPT**, permitindo a consulta automatizada de produtos, estoque, preços e localização diretamente no ERP, utilizando um agente conversacional.
