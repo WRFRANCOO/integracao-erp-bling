@@ -1,0 +1,18 @@
+# segredos
+.env
+*.key
+*.pem
+secrets*
+tokens*
+credentials*
+
+# lixo de editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs / dumps
+*.log
+*.zip
+*.bak
