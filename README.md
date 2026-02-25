@@ -66,7 +66,7 @@ A solução permitiu:
 - Comunicação entre agentes conversacionais e APIs externas
 - Contorno de restrições de execução e escalabilidade
 
----
 
-##  Status do Projeto
+
+##  Status do Projeto :
 Em evolução — projeto de estudo aplicado com foco em integração e automação real.
